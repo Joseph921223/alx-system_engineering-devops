@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "is 1a" > is_cwd_content
