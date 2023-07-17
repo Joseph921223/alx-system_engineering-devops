@@ -1,3 +1,2 @@
 #!/bin/bash
-su hello - the permision is incrementing
-su olleh - the permission is decrementing
+chmod --reference=olleh hello
