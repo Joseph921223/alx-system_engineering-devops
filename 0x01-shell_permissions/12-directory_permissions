@@ -1,0 +1,3 @@
+#!/bin/bash
+mdir my_dir
+rwx r-x --x
